@@ -1,6 +1,6 @@
-# 🏥 Medical Assistant Chatbot 
+# 🏥 AI Health Assistant Chatbot 
 
-The Medical Assistant Chatbot is an AI-powered application that leverages Retrieval Augmented Generation (RAG) to provide accurate medical information. It uses a comprehensive medical knowledge base to answer health-related queries with reliable, sourced information.
+The AI Health Assistant Chatbot is an AI-powered application that leverages **Retrieval Augmented Generation (RAG)** to provide accurate medical information. It uses a medical knowledge base to answer health-related queries.
 
 
 ## Tech Stack
@@ -119,7 +119,7 @@ newgrp docker
 ### 5. Deployment Process
 
 The deployment process follows these steps:
-1. Build Docker image of the source code
+1. Build a Docker image of the source code
 2. Push Docker image to ECR
 3. Pull image from ECR to EC2
 4. Launch Docker container on EC2
@@ -139,13 +139,14 @@ The GitHub Actions workflow will automate this process on every push to the main
   ```
 - `GET /health`: Health check endpoint
 
+## Interface Previews
+
+![Interface](data/front-end.png)
+
 
 ## License
 
 [MIT License](LICENSE)
 
-## Contributing
-
-Contributions are welcome! 
 
 📩 **Need professional support?** [Contact me](mailto:hafizshakeel1997@gmail.com) for assistance.  
