@@ -108,6 +108,7 @@ newgrp docker
    - AWS_DEFAULT_REGION
    - ECR_REPO
    - PINECONE_API_KEY
+   - OPENAI_API_KEY
    - GROQ_API_KEY
 
 2. Set up EC2 as self-hosted runner:
