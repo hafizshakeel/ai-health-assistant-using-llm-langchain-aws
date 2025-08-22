@@ -1,8 +1,4 @@
-# Medical Assistant Chatbot 🏥
-
-A RAG-based medical chatbot that provides reliable medical information using a knowledge base of medical literature.
-
-## Overview
+# 🏥 Medical Assistant Chatbot 
 
 The Medical Assistant Chatbot is an AI-powered application that leverages Retrieval Augmented Generation (RAG) to provide accurate medical information. It uses a comprehensive medical knowledge base to answer health-related queries with reliable, sourced information.
 
@@ -13,7 +9,7 @@ The Medical Assistant Chatbot is an AI-powered application that leverages Retrie
 - **Frontend**: Streamlit
 - **Vector Database**: Pinecone
 - **Embeddings**: Hugging Face (sentence-transformers)
-- **LLM**: Groq (llama-3.1-8b-instant)
+- **LLM**: OpenAI, Groq (llama-3.1-8b-instant)
 - **Infrastructure**: AWS (EC2, ECR)
 - **CI/CD**: GitHub Actions
 
