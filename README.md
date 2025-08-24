@@ -33,7 +33,7 @@ medical_chatbot/
 1. **Clone the repository**
 ```bash
 git clone https://github.com/hafizshakeel/ai-health-assistant-using-llm-langchain-aws.git
-cd medical_chatbot
+cd ai-health-assistant-using-llm-langchain-aws
 ```
 
 2. **Install dependencies**
