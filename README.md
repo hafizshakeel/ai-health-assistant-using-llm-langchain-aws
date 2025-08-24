@@ -32,7 +32,7 @@ medical_chatbot/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/hafizshakeel/ai-health-assistant-using-llm-langchain-aws.git
 cd medical_chatbot
 ```
 
